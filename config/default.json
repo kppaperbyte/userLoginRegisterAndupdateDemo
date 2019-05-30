@@ -1,0 +1,8 @@
+{
+    "database": "mongodb://localhost:27017/27expressDemo",
+    "port": 17000,
+    "userSecret": "kiranpalsingh",
+    "tokenValidity": {
+        "days": "1 days"
+    }
+}
